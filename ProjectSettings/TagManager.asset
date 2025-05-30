@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Gate
+  - Collectible
+  - Character
+  - Obstacle
+  - Ball
+  - Border
+  - Wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ball
+  - Wall
+  - Enemy
+  - Gate
+  - Player
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ball
+    uniqueID: 1062586749
+    locked: 0
+  - name: Characters
+    uniqueID: 638560855
+    locked: 0
+  - name: Collectibles
+    uniqueID: 619967685
+    locked: 0
+  - name: UI
+    uniqueID: 330317783
+    locked: 0
+  - name: Foreground
+    uniqueID: 2899228431
+    locked: 0
+  m_RenderingLayers:
+  - Default
