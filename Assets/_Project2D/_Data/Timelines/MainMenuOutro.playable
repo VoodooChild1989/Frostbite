@@ -527,7 +527,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 190
+        value: 240
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -596,7 +596,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 190
+        value: 240
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1177,7 +1177,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -258
+        value: -185.0153
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -1246,7 +1246,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -258
+        value: -185.0153
         inSlope: 0
         outSlope: 0
         tangentMode: 136
