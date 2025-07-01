@@ -105,7 +105,7 @@ MonoBehaviour:
   notes: 
   moveSpeed: 2
   rb: {fileID: 0}
-  curSide: 1
+  curSide: 0
   ballPos: {fileID: 0}
   wallPos: {fileID: 0}
   maxHealth: 5
