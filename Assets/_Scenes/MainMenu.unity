@@ -5761,7 +5761,7 @@ ParticleSystem:
     m_TextureColorAffectsParticles: 1
     m_TextureAlphaAffectsParticles: 1
     m_TextureBilinearFiltering: 0
-    randomDirectionAmount: 0.02
+    randomDirectionAmount: 0
     sphericalDirectionAmount: 0
     randomPositionAmount: 0
     radius:
@@ -9797,15 +9797,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 461679970057618808, guid: 5fc77eb783f78f44bac99ca6c09c9e04, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.12
+      value: 0.13
       objectReference: {fileID: 0}
     - target: {fileID: 461679970057618808, guid: 5fc77eb783f78f44bac99ca6c09c9e04, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.12
+      value: 0.13
       objectReference: {fileID: 0}
     - target: {fileID: 461679970057618808, guid: 5fc77eb783f78f44bac99ca6c09c9e04, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.12
+      value: 0.13
       objectReference: {fileID: 0}
     - target: {fileID: 461679970057618808, guid: 5fc77eb783f78f44bac99ca6c09c9e04, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -9833,7 +9833,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1288931700368797313, guid: 5fc77eb783f78f44bac99ca6c09c9e04, type: 3}
       propertyPath: delay
-      value: 1.3
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1288931700368797313, guid: 5fc77eb783f78f44bac99ca6c09c9e04, type: 3}
       propertyPath: amplitude
@@ -9845,7 +9845,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1288931700368797313, guid: 5fc77eb783f78f44bac99ca6c09c9e04, type: 3}
       propertyPath: moveSpeed
-      value: 3
+      value: -5
       objectReference: {fileID: 0}
     - target: {fileID: 1488037417847539536, guid: 5fc77eb783f78f44bac99ca6c09c9e04, type: 3}
       propertyPath: m_AnchoredPosition.y

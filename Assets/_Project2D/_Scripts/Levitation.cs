@@ -57,7 +57,7 @@ public class Levitation : MonoBehaviour
         {
             while (true)
             {
-                float valueY = Mathf.Sin(Time.time * moveSpeed) * amplitude;
+                float valueY = Mathf.Sin((Time.time - delay) * moveSpeed) * amplitude;
                 
                 if (gameObject.layer == LayerMask.NameToLayer("UI"))
                     rectTransform.anchoredPosition = new Vector2(rectTransform.anchoredPosition.x, startY + valueY);
