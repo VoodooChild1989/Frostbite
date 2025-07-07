@@ -1,2 +1,2 @@
 # Frostbite
-Pong (1972) inspired game.
+Don't let 'em score!
