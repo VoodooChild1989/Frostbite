@@ -852,8 +852,8 @@ ParticleSystem:
     radiusThickness: 1
     donutRadius: 0.2
     m_Position: {x: 0, y: 0, z: 0}
-    m_Rotation: {x: 0, y: -91.36, z: 0}
-    m_Scale: {x: 9.38, y: 1, z: 1}
+    m_Rotation: {x: 0, y: -90, z: 0}
+    m_Scale: {x: 10, y: 1, z: 1}
     placementMode: 0
     m_MeshMaterialIndex: 0
     m_MeshNormalOffset: 0
@@ -5055,7 +5055,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1186951738}
   serializedVersion: 8
-  lengthInSec: 5
+  lengthInSec: 3
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 0
@@ -5685,8 +5685,8 @@ ParticleSystem:
     radiusThickness: 1
     donutRadius: 0.2
     m_Position: {x: 0, y: 0, z: 0}
-    m_Rotation: {x: 0, y: -91.36, z: 0}
-    m_Scale: {x: 5.69, y: 1, z: 1}
+    m_Rotation: {x: 0, y: -90, z: 0}
+    m_Scale: {x: 6, y: 1, z: 1}
     placementMode: 0
     m_MeshMaterialIndex: 0
     m_MeshNormalOffset: 0
@@ -5884,7 +5884,7 @@ ParticleSystem:
     rateOverTime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 0.2
+      scalar: 0.5
       minScalar: 10
       maxCurve:
         serializedVersion: 2
@@ -9781,7 +9781,7 @@ Transform:
   m_GameObject: {fileID: 1186951738}
   serializedVersion: 2
   m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 12.09, y: 1.72, z: -0.068700805}
+  m_LocalPosition: {x: 12.09, y: 1.72, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -10035,6 +10035,14 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4203774261814861024, guid: 5fc77eb783f78f44bac99ca6c09c9e04, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 902.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4203774261814861024, guid: 5fc77eb783f78f44bac99ca6c09c9e04, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 482
+      objectReference: {fileID: 0}
     - target: {fileID: 4585915486473124300, guid: 5fc77eb783f78f44bac99ca6c09c9e04, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: -268
@@ -10085,6 +10093,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7499373060070722137, guid: 5fc77eb783f78f44bac99ca6c09c9e04, type: 3}
       propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7729964068058457778, guid: 5fc77eb783f78f44bac99ca6c09c9e04, type: 3}
+      propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8179219605566593297, guid: 5fc77eb783f78f44bac99ca6c09c9e04, type: 3}
